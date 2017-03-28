@@ -1,0 +1,22 @@
+{
+  "name": "my-javascripting",
+  "version": "1.0.0",
+  "description": "NodeSchool workshopper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/javascripting/bin/javascripting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joilson-cisne/javascripting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joilson-cisne/javascripting/issues"
+  },
+  "homepage": "https://github.com/joilson-cisne/javascripting#readme",
+  "dependencies": {
+    "javascripting": "^2.6.1"
+  }
+}
